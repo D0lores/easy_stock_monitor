@@ -7,7 +7,7 @@ import  easyquotation
 
 if __name__ == "__main__":
 
-  stock_code=argv[1]
+ 	stock_code=sys.argv[1]
 	quotation = easyquotation.use('sina') 
 
 
