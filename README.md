@@ -1,0 +1,1 @@
+# easy_stock_monitor
